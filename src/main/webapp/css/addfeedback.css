@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+#btn{
+	
+   border-radius:black;
+    height: 10px;
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 15%;
+    border: 0;
+    border-radius: 5px;
+    outline: solid 1px;
+}
+
+#na{
+	border-radius: 4px;
+	font-size: large;
+	width: 10%;
+}
+input#na:hover{
+	background-color: grey;
+}
